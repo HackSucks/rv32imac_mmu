@@ -5,7 +5,7 @@ A variant of Charles Lohr's mini-rv32ima that has a Sv32 MMU and C instruction s
 
 It's very cool and intentionally portable :3 
 
--# i was bored also 
+<small>i was bored also</small>
 
 # Planned languages: basically all mainstream ones, but so far:
 
